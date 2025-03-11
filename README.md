@@ -35,7 +35,7 @@ To run this project, you need Python and the required libraries installed. Follo
 6. **Evaluate Model:** Calculate accuracy, display classification report, and visualize the confusion matrix.
 
 ## **Results**
-- Achieved an **accuracy of 98.67%**.
+- Achieved an **accuracy of 25.00%**.
 - High precision and recall for all three species.
 - Effective feature scaling and hyperparameter tuning improved model performance.
 
